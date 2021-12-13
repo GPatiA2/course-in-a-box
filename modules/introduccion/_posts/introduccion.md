@@ -13,6 +13,6 @@ El curso se divide en 3 módulos
 
 Este curso tiene su contexto en el trabajo de impacto social de la asignatura Ética Legislación y Profesión realizado por <Nombres> durante el curso 2021-2022.
   
-Todo el contenido de este curso se encuentra bajo la licencia MIT.
+Todo el contenido de este curso se encuentra bajo la licencia MIT. El software y la plantilla utilizada para crear el curso fueron creados por P2P University.
   
 
