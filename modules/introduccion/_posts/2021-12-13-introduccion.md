@@ -7,8 +7,8 @@ Además, aprenderás a usar herramientas para aumentar la seguridad de tus cuent
 
 El curso se divide en 4 módulos
 
-  1. Como nos rastrean en internet. <enlazar>
-  2. La importancia de nuestros datos.
+  1. La importancia de nuestros datos. <enlazar>
+  2. Como nos rastrean en internet.
   3. Evitando los trackers. <enlazar>
   4. Datos en poder de las empresas. <enlazar>
 
