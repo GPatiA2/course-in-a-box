@@ -54,7 +54,7 @@ Una vez tengas instalado Ublock Origin, debería aparecer un icono de un escudo 
 
 Haciendo click en ese icono, se desplegará un menú como el siguiente:
 
--- insertar imagen de ublock origin menu --
+![alt text](https://github.com/GPatiA2/course-in-a-box/blob/gh-pages/img/ublockoriginmenu.png)
 
 En la parte inferior de este menú aparecen dos botones:
 
@@ -63,7 +63,7 @@ En la parte inferior de este menú aparecen dos botones:
   
 Si pulsas el botón "Más", en la parte superior aparecen las opciones destacadas en rojo en la siguiente imagen:
 
--- insertar imagen de ublock origin con menú resaltado en rojo --
+![alt text](https://github.com/GPatiA2/course-in-a-box/blob/gh-pages/img/ublockoriginmenured.png)
 
 De izquierda a derecha, estas opciones sirven para:
 
