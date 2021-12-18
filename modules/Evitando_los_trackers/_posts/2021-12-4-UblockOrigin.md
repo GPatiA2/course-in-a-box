@@ -1,3 +1,6 @@
+---
+title: Ublock Origin
+---
 # Ublock Origin
 
 Ublock Origin es la última extensión para navegadores sobre la que aprenderás en este curso. Funciona en varios navegadores:
