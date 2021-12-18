@@ -25,7 +25,7 @@ Pixel block 2 es realmente sencilla de usar. Una vez la instales en tu navegador
 
 Si algún correo electrónico que abras tiene un tracker, podrás ver como Pixel block 2 lo bloquea porque apararecerá el símbolo de un ojo rojo tachado al lado del remitente del correo.
   
--- Poner foto de pixel block 2 -- 
+![alt text](https://github.com/GPatiA2/course-in-a-box/blob/gh-pages/img/pixelblock2.jpg)
 
 
 
