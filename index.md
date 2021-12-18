@@ -20,7 +20,7 @@ Para ello, hemos dividido el curso en varios módulos que presentamos a continua
 
 <br> 
 
-#### Acerca de este curso
+### Acerca de este curso
 Este curso ha sido creado como proyecto para la asignatura Ética, Legislación y Profesión del grado de ingeniería informática de la Universidad Complutense de Madrid.
 Con él, pretendemos llegar al mayor número de personas posibles para concienciar a los usuarios de internet acerda de por qué deben proteger su privacidad en internet y de qué pueden hacer para ello.
 
