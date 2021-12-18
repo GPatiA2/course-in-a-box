@@ -14,7 +14,7 @@ Frecuentemente, estos acuerdos suelen hacer al usuario ceder derechos sobre su i
   * El derecho a usar dicha información para ofrecerte anuncios dirigidos específicamente hacia ti.
   * El derecho a leer tus mensajes privados con otro usuario.
   * El derecho a almacenar y emplear tu historial de búsqueda dentro de ese servicio.
-  * El derecho a no eliminar la información completamente, aunque tú la elimines.
+  * El derecho a no eliminar la información completamente, aunque tú la elimines de tu perfil.
  
 Por otro lado, es igual de frecuente que este tipo de acuerdos no sean nada fáciles de leer para los usuarios, puesto que están diseñados por las empresas para que al usuario le parezca demasiado tedioso y los acepte sin leerlos.
 Además, muchas veces existen factores sociales que provocan que, aún sabiendo los usuarios que comprometen su privacidad al aceptarlos, se pase por alto este compromiso y se acepten estas condiciones y términos de uso.
