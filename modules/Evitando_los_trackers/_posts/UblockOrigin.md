@@ -38,10 +38,9 @@ Instalar Ublock Origin es un proceso exactamente igual al que se seguiría para 
   2. En la barra de búsqueda, busca Ublock Origin.
   3. Pincha en el primer resultado.
   4. Ahora deberías ver la pantalla de la tienda correspondiente a este extensión.
- 
-    * Si te es más sencillo, en Chrome, Opera y Chromium pincha en este **[enlace](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=es)**
-    * Para Firefox, usa este **[enlace](https://addons.mozilla.org/es/firefox/addon/ublock-origin/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)**
-    * Para Safari, ve a Safari, después a Extensiones y después busca Ublock Origin en la barra de búsqueda.
+   * Si te es más sencillo, en Chrome, Opera y Chromium pincha en este **[enlace](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=es)**
+   * Para Firefox, usa este **[enlace](https://addons.mozilla.org/es/firefox/addon/ublock-origin/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)**
+   * Para Safari, ve a Safari, después a Extensiones y después busca Ublock Origin en la barra de búsqueda.
     
   5. Finalmente, pincha en un botón que aparecerá con el texto "Obtener" / "Añadir a Opera" / "Añadir a Chrome" / "Añadir a Firefox"
   6. Ahora que has instalado la extensión, tu navegador debería notificártelo con un mensaje en la parte superior.
