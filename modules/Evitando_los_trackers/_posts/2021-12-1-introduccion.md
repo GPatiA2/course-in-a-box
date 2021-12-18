@@ -1,3 +1,6 @@
+---
+title: Introduccion
+---
 # Introducción
 
 Ahora que conoces qué mecanismos se usan para extraer información sobre los usuarios que navegan por internet, aprenderás a usar herramientas que evitan que las empresas recolecten tus datos y de qué manera lo hacen.
