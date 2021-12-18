@@ -1,3 +1,6 @@
+---
+title: Pixel Block 2
+---
 # Pixel Block 2
 
 Pixel block 2 es otra extensión más para tu navegador que se encarga de bloquear algunos trackers específicos.
