@@ -13,7 +13,7 @@ Ublock Origin es la última extensión para navegadores sobre la que aprenderás
   
 ## 1. ¿Cómo funciona?
 
-Al igual que **[Privacy Badger](/modules/Evitando_los_trackers/PrivacyBadger.md), Ublock Origin analiza lo que se está ejecutando en tu navegador, y lo contrasta con varias listas que tiene guardadas.
+Al igual que **[Privacy Badger](/course-in-a-box/modules/Evitando_los_trackers/PrivacyBadger.md)**, Ublock Origin analiza lo que se está ejecutando en tu navegador, y lo contrasta con varias listas que tiene guardadas.
 Si alguno de los programas en ejecución aparece en las listas, bloquea su ejecución.
 
 Esta extensión se caracteriza por hacer un consumo de memoria más bajo que el resto de extensiones de este tipo y por ser software libre.
