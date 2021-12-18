@@ -13,20 +13,21 @@ Más concretamente, se tratarán los siguientes apartados :
 
 Para ello, hemos dividido el curso en varios módulos que presentamos a continuación:
 
-* **[titulo](/modules/<titulo de modulo>/intro de modulo)** - contenido
-* **[titulo](/modules/<titulo de modulo>/intro de modulo)** - contenido
-* **[titulo](/modules/<titulo de modulo>/intro de modulo)** - contenido
+* **[La importancia de nuestros datos](/modules/La_importancia_de_nuestros_datos)** - Una breve explicación sobre los motivos que hay para recopilar datos de los usuarios.
+* **[¿Cómo nos rastrean en internet?](/modules/Como_nos_rastrean_en_internet)** - Donde aprenderás más detalladamente sobre los mecanismos que se usan para recopilar datos de quien navega por internet.
+* **[Evitando los rastreadores](/modules/Evitando_los_trackers)** - Tutoriales de instalación y uso de varias herramientas que sirven para impedir que los rastreadores actúen extrayendo tus datos.
+* **[Datos en poder de las empresas](/modules/Datos_en_Poder_de_las_Empresas)** - Aquí aprenderás sobre qué datos cedes al empezar a usar ciertos servicios, qué alternativas tienes a ellos y cómo comprobar si algunos de los datos que poseen terceros comprometen tu seguridad en internet.
 
 <br> 
 
-#### Acerca de este curso
+### Acerca de este curso
 Este curso ha sido creado como proyecto para la asignatura Ética, Legislación y Profesión del grado de ingeniería informática de la Universidad Complutense de Madrid.
 Con él, pretendemos llegar al mayor número de personas posibles para concienciar a los usuarios de internet acerda de por qué deben proteger su privacidad en internet y de qué pueden hacer para ello.
 
 Puedes encontrar más acerca de este tema, sobre la asignatura, y sobre otros proyectos similares, visita la **[Wiki de la asignatura](https://wikis.fdi.ucm.es/ELP/Página_principal)**
 
-Por favor, cuando termines todas las lecturas de este curso, rellena este **[cuestionario](link al cuestionario)** que nos servirá para conocer a cuántas personas ha llegado este curso.
+Por favor, cuando termines todas las lecturas de este curso, rellena este **[cuestionario](https://forms.gle/rWV3HmXX8e88uwqs9)** que nos servirá para conocer a cuántas personas ha llegado este curso.
 
-Todo el contenido de este curso se encuentra bajo la licencia MIT.
+El código de este curso se encuentra bajo la licencia MIT, y los textos e imágenes bajo la licencia CC BY SA.
 
 
