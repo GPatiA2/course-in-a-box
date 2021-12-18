@@ -14,7 +14,7 @@ Más concretamente, se tratarán los siguientes apartados :
 Para ello, hemos dividido el curso en varios módulos que presentamos a continuación:
 
 * **[La importancia de nuestros datos](/modules/La_importancia_de_nuestros_datos)** - Una breve explicación sobre los motivos que hay para recopilar datos de los usuarios.
-* **[¿Cómo nos rastrean en internet?](/modules/Como_nos_rastrean_en_internet** - Donde aprenderás más detalladamente sobre los mecanismos
+* **[¿Cómo nos rastrean en internet?](/modules/Como_nos_rastrean_en_internet)** - Donde aprenderás más detalladamente sobre los mecanismos
 * **[Evitando los rastreadores](/modules/Evitando_los_trackers)** - contenido
 * **[Datos en poder de las empresas](/modules/Datos_en_Poder_de_las_Empresas)** -
 
