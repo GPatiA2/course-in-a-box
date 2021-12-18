@@ -28,6 +28,6 @@ Puedes encontrar más acerca de este tema, sobre la asignatura, y sobre otros pr
 
 Por favor, cuando termines todas las lecturas de este curso, rellena este **[cuestionario](https://forms.gle/rWV3HmXX8e88uwqs9)** que nos servirá para conocer a cuántas personas ha llegado este curso.
 
-Todo el contenido de este curso se encuentra bajo la licencia MIT.
+El código de este curso se encuentra bajo la licencia MIT, y los textos e imágenes bajo la licencia CC BY SA.
 
 
