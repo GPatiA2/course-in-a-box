@@ -2,34 +2,31 @@
 layout: index
 published: true
 ---
+Staying Safe on The Internet es un curso creado creado para que el usuario aprenda sobre qué sucede con sus datos mientras navega por internet.
+Más concretamente, se tratarán los siguientes apartados :
 
-Course-in-a-Box is a free tool for building and publishing online courses—no prior coding experience required. This guide was made using Course-in-a-Box, so what you see here is what you’ll start with. There are three modules that walk through the course creation process, all linked in the nav bar at the top of the page:
-* **[Setup](/modules/setup/getting-started/)** - Get your instance of Course-in-a-Box up and running
-* **[Content](/modules/content/markdown-and-media)** -  Update the course structure and add your copy & media
-* **[Customize](/modules/customize/favicon)** - Add some (optional) finishing touches
+* **Qué datos recopilan terceros de los usuarios**
+* **Por qué y para qué un tercero querría recopilar sus datos**
+* **Qué formas tiene un usuario de evitar que un tercero recopile sus datos**
+* **Qué datos cedemos los usuarios al acceder a ciertos servicios en la red**
+* **Cómo podemos los usuarios eliminar nuestros datos de las bases de datos de las empresas**
 
-<br> 
+Para ello, hemos dividido el curso en varios módulos que presentamos a continuación:
 
-#### Course-in-a-Box Courses We Love ❤️
-Here are some examples of Course-in-a-Box in the wild:
-
-* [Making and Learning](http://p2pu.github.io/makingandlearning/) by Children’s Museum of Pittsburgh
-* [Designing for Documentation and Assessment](https://playfulmit.github.io/beyond-rubrics/) by MIT Playful Journey Lab
-* [ExplOERer Course](http://www.exploerercourse.org/en/) by Gothenburg University, Open University, and CC Poland
-* [Learning about Learning Circles](https://p2pu.github.io/learning-about-learning-circles/) by P2PU
-* [Queer Cinema for High School](https://queercinema.net/) by Sarah Schrag
+* **[titulo](/modules/<titulo de modulo>/intro de modulo)** - contenido
+* **[titulo](/modules/<titulo de modulo>/intro de modulo)** - contenido
+* **[titulo](/modules/<titulo de modulo>/intro de modulo)** - contenido
 
 <br> 
 
-#### Need some help?
-Our [community forum](https://community.p2pu.org/c/tech/course-in-a-box/78) is a great place to ask questions or find help when you get stuck. Feel free to post there anytime!
+#### Acerca de este curso
+Este curso ha sido creado como proyecto para la asignatura Ética, Legislación y Profesión del grado de ingeniería informática de la Universidad Complutense de Madrid.
+Con él, pretendemos llegar al mayor número de personas posibles para concienciar a los usuarios de internet acerda de por qué deben proteger su privacidad en internet y de qué pueden hacer para ello.
 
-You can also hire P2PU to provide support with learning design, technical setup, course customizations, or web hosting. If you’re interested in collaborating on a project, reach out to us at thepeople@p2pu.org
+Puedes encontrar más acerca de este tema, sobre la asignatura, y sobre otros proyectos similares, visita la **[Wiki de la asignatura](https://wikis.fdi.ucm.es/ELP/Página_principal)**
 
-<br> 
+Por favor, cuando termines todas las lecturas de este curso, rellena este **[cuestionario](link al cuestionario)** que nos servirá para conocer a cuántas personas ha llegado este curso.
 
-#### About Course-in-a-Box
+Todo el contenido de este curso se encuentra bajo la licencia MIT.
 
-P2PU created Course-in-a-Box in 2014 as a free and lightweight tool for building online courses. We wanted to preserve the modular structure of MOOCs outside of the bulky (and often proprietary) environment of learning/content management systems. Course-in-a-Box is open-source, and we welcome contributions [on our Github repo](https://github.com/p2pu/course-in-a-box).
 
-p.s. Designing a course for learning circles? [Check out the Learning Circle Course Creation guide](https://docs.google.com/document/u/1/d/116fJM3GS7XDzilUOL_ynMZ0yTncUD6aVUbcQKsTra6U/edit#heading=h.l36tzg40xcgr) for some best practices on course design.
