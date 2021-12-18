@@ -1,3 +1,6 @@
+---
+title: Privacy Badger
+---
 # Privacy Badger
 
 Privacy Badger es una extensión para tu navegador web. Funciona en Chrome, Firefox, Edge y Opera.
