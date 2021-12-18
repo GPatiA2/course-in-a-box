@@ -13,9 +13,10 @@ Más concretamente, se tratarán los siguientes apartados :
 
 Para ello, hemos dividido el curso en varios módulos que presentamos a continuación:
 
-* **[titulo](/modules/<titulo de modulo>/intro de modulo)** - contenido
-* **[titulo](/modules/<titulo de modulo>/intro de modulo)** - contenido
-* **[titulo](/modules/<titulo de modulo>/intro de modulo)** - contenido
+* **[La importancia de nuestros datos](/modules/La_importancia_de_nuestros_datos)** - Una breve explicación sobre los motivos que hay para recopilar datos de los usuarios.
+* **[¿Cómo nos rastrean en internet?](/modules/Como_nos_rastrean_en_internet** - Donde aprenderás más detalladamente sobre los mecanismos
+* **[Evitando los rastreadores](/modules/Evitando_los_trackers)** - contenido
+* **[Datos en poder de las empresas](/modules/Datos_en_Poder_de_las_Empresas)** -
 
 <br> 
 
@@ -25,7 +26,7 @@ Con él, pretendemos llegar al mayor número de personas posibles para concienci
 
 Puedes encontrar más acerca de este tema, sobre la asignatura, y sobre otros proyectos similares, visita la **[Wiki de la asignatura](https://wikis.fdi.ucm.es/ELP/Página_principal)**
 
-Por favor, cuando termines todas las lecturas de este curso, rellena este **[cuestionario](link al cuestionario)** que nos servirá para conocer a cuántas personas ha llegado este curso.
+Por favor, cuando termines todas las lecturas de este curso, rellena este **[cuestionario](https://forms.gle/rWV3HmXX8e88uwqs9)** que nos servirá para conocer a cuántas personas ha llegado este curso.
 
 Todo el contenido de este curso se encuentra bajo la licencia MIT.
 
