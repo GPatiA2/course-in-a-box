@@ -48,3 +48,5 @@ El proceso de instalación de Privacy Badger es muy sencillo. Se describe a cont
   
   En caso de que quieras desactivar Privacy Badger en alguna web concreta porque impide el correcto uso de la misma, en la parte inferior de la ventana aparece un botón con el texto "Desactivar para este sitio" que puedes pulsar.
   
+  ![alt text](https://github.com/gpatia2/course-in-a-box/privacybadgerimg.png/?raw=true)
+  
