@@ -1,0 +1,59 @@
+## Cookies
+El primer método y el más conocido de todos los que veremos son las cookies.
+
+Las cookies son fragmentos de código que los servicios web insertan en nuestro navegador y cuyos principales usos son la gestión de sesiones, guardar los ajustes de personalización y el rastrearnos. 
+
+Estos usos, al igual que el riesgo hacia nuestra privacidad que suponen varía dependiendo del tipo de cookie con la que nos encontremos.
+Los principales tipos de cookies son:
+
+### Cookies de sesión
+Las cookies de sesión son utilizadas por los servicios web para reconocer a los usuarios así como la información que estos le han proporcionado durante su navegación.
+
+Estas cookies son también conocidas como cookies temporales ya que son destruidas cuando cerramos el navegador o cerramos la sesión en el servicio web que las creó y solo son almacenadas en la memoría del navegador, no en nuestro disco duro.
+
+Uno de los ejemplos más claros de su uso son las webs que tienen un servicio de compra y utilizan estas cookies para mantener la información de lo que tenemos en el carrito de la compra.
+
+### Cookies persistentes
+Las cookies persistentes, también conocidas como cookies de origen, son un tipo de cookie que no se destruye cuando cerramos sesión en el servicio web que las creó ni cuando cerramos el navegador ya que estas se guardan en nuestro disco duro. 
+
+Este tipo de cookie es utilizado principalmente para mantener información sobre nuestras credenciales (cuando solicitamos que el servicio web nos recuerde) y nuestras preferencias.
+
+### Cookies de terceros
+Las cookies de terceros son cookies que otros servicios web que no estamos visitando directamente insertan en nuestro navegador y cuya finalidad es analizar y almacenar datos como:
+
+  * Datos almacenados en otras webs.
+  * Datos demográficos.
+  * Hábitos de compra.
+
+para poder crear publicidad y anuncios dirigidos.
+
+Para lograr este objetivo, las cookies de terceros analizan la información de la sesión de navegación, es decir, de todas las ventanas que tengamos abiertas en el navegador y además dependiendo de la cookie, esta puede no ser eliminada al cerrar el navegador.
+
+Afortunadamente, desde el año 2017 cada vez más buscadores como Firefox y Safari bloquean estas cookies por defecto debido a la creciente demanda de privacidad por parte de los usuarios.
+
+Algunos como Google, han anunciado que en el futuro también lo harán por defecto ya que actualmente esto debe ser configurado manualmente.
+
+### Supercookies
+Las supercookies son el tipo de cookie más difícil de detectar ya que esta no es insertada en el navegador sino que es insertada directamente en nuestro dispositivo sin nuestro permiso.
+
+Este tipo de cookies recopilan la información como:
+
+* Hábitos de navegación.
+  * Páginas visitadas.
+  * Tiempo transcurrido en ellas.
+  * Información del navegador.
+* Datos de inicio de sesión de otros servicios web.
+* Información de la cache del dispositivo.
+  * Imágenes.
+  * Ficheros.
+
+Las supercookies suponen un gran peligro para la privacidad ya que:
+
+1. Al no depender del navegador pueden obtener información de cualquier navegador que estemos utilizando.
+2. Estas cookies no son eliminadas ni aunque eliminemos todas las cookies del navegador.
+3. Por lo general estas cookies no son almacenadas en un único lugar, son almacenadas en varios lugares de nuestro dispositivo para evitar ser eliminadas.
+4. Son utilizadas para crear perfiles de los usuarios sin que estos lo sepan.
+
+Uno de los casos más famosos de uso de supercookies fue el caso del proveedor de servicios Verizon el cual insertaba una supercookie en el tráfico de los usuarios sin que estos lo supieran para crear perfiles de estos a partir de la información obtenida.
+
+La comisión federal de comunicaciones Americana (FCC) multó a la compañía por un valor de 1,35 millones de dólares debido a esto.
