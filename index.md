@@ -2,7 +2,7 @@
 layout: index
 published: true
 ---
-Staying Safe on The Internet es un curso creado creado para que el usuario aprenda sobre qué sucede con sus datos mientras navega por internet.
+Proteje tus datos en internet es un curso creado creado para que el usuario aprenda sobre qué sucede con sus datos mientras navega por internet.
 Más concretamente, se tratarán los siguientes apartados :
 
 * **Qué datos recopilan terceros de los usuarios**
