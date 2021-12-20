@@ -2,8 +2,8 @@
 layout: index
 published: true
 ---
-Proteje tus datos en internet es un curso creado creado para que el usuario aprenda sobre qué sucede con sus datos mientras navega por internet.
-Más concretamente, se tratarán los siguientes apartados :
+Proteje tus datos en internet es un curso creado para que el usuario aprenda como se vulnera su privacidad en internet
+y que herramientas puede usar para mitigarlo. Más concretamente, se tratarán los siguientes apartados :
 
 * **Qué datos recopilan terceros de los usuarios**
 * **Por qué y para qué un tercero querría recopilar sus datos**
