@@ -29,6 +29,8 @@ Además, esta web clasifica los diferentes servicios online en función de la ca
 Nada más entrar a la web, puedes observar que en la parte central de la web aparece un campo de texto en el que aparece "Search for a service here...".
 Para consultar los términos y condiciones de un servicio online, introduce el nombre de ese servicio en ese campo de texto.
 
+![tosdrimage](https://user-images.githubusercontent.com/60484182/146808512-9bf29d35-382c-4db0-8d2b-99f9fc4cfcc8.png)
+
 Una vez lo hayas hecho, si la web dispone de información sobre los términos y condiciones de uso de ese servicio, te los mostrará de manera simplificada y te mostrará la nota que le asigna a dicho servicio.
 Más concretamente, las notas asignadas a los diferentes servicios van desde A (el servicio más respetuoso con tu información) hasta E (el menos respetuoso).
 
