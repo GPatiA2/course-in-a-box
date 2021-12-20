@@ -1,3 +1,7 @@
+---
+title: HTTP referer
+---
+
 ## Campo HTTP referer
 
 Otro de los métodos a través de los cuales pueden rastrearnos es el campo referer de la cabecera HTTP.

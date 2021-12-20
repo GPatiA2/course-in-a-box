@@ -1,3 +1,7 @@
+---
+title: Huella del navegador
+---
+
 ## Huella del navegador
 
 El último método que explicaremos en este curso es la huella del navegador, también conocida como huella de dispositivo o huella online.
@@ -5,7 +9,7 @@ El último método que explicaremos en este curso es la huella del navegador, ta
 La huella del navegador es un conjunto de técnicas que utilizan los servicios web para obtener datos específicos de nosotros y poder crear un perfil con ellos. 
 Estudios indican que a través de la huella que dejamos, las empresas son capaces de distinguirnos con un 90-99% de precisión de entre millones de usuario.
 
-Recomendamos visitar la web [amiunique](https://amiunique.org/fp) para que puedas comprobar por ti mismo la cantidad de información que una compañía puede obtener de ti a través de este método.
+Recomendamos visitar la web **[amiunique](https://amiunique.org/fp)** para que puedas comprobar por ti mismo la cantidad de información que una compañía puede obtener de ti a través de este método.
 
 Otro punto importante es que los servicios web no tienen la obligación de notificar al usuario ni pedir su permiso a la hora de obtener su huella del navegador, a diferencia de las cookies que están reguladas (por ejemplo en la Unión Europea los servicios web que las usan tienen la obligación de notificar su uso y solicitar el permiso del usuario).
 

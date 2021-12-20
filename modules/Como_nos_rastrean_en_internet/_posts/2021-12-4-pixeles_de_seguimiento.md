@@ -1,3 +1,7 @@
+---
+title: Píxeles de seguimiento
+---
+
 ## Píxeles de seguimiento
 
 Un píxel de seguimiento es una imagen de 1x1 píxeles de altura y anchura, transparente que se inserta en un servicio web permitiéndole rastrear el tráfico en la web y nuestro comportamiento en esta.
