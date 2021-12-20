@@ -28,6 +28,8 @@ De esta manera, si te preocupa la privacidad de tus datos en internet, puedes ac
 
 Al entrar a la web, en la zona central de la pantalla verás una serie de categorías que agrupan las aplicaciones en función del servicio que prestan.
 
+![privacytoolsio](https://user-images.githubusercontent.com/60484182/146808611-9239286c-5dbc-48f8-8226-e93575040ba5.png)
+
 Al hacer click en una categoría, se te mostrarán en forma de lista las aplicaciones que se encuentran dentro de ella. Para cada aplicación se te mostrarán con pictogramas sus características principales y una breve descripción sobre la aplicación.
 Además, el nombre de cada aplicación es también un link que al clickarlo te lleva a la web desde donde puedes descargar dicha aplicación.
 
