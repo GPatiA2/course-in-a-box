@@ -54,7 +54,7 @@ Una vez tengas instalado Ublock Origin, debería aparecer un icono de un escudo 
 
 Haciendo click en ese icono, se desplegará un menú como el siguiente:
 
-![alt text](https://github.com/GPatiA2/course-in-a-box/blob/gh-pages/img/ublockoriginmenu.png)
+![ublockoriginmenu](https://user-images.githubusercontent.com/60484182/146808220-05ce0bad-6eb5-4617-bb9b-8ba613f74633.png)
 
 En la parte inferior de este menú aparecen dos botones:
 
@@ -63,7 +63,7 @@ En la parte inferior de este menú aparecen dos botones:
   
 Si pulsas el botón "Más", en la parte superior aparecen las opciones destacadas en rojo en la siguiente imagen:
 
-![alt text](https://github.com/GPatiA2/course-in-a-box/blob/gh-pages/img/ublockoriginmenured.png)
+![ublockoriginmenured](https://user-images.githubusercontent.com/60484182/146808242-cfcf14bf-6066-4042-8e60-67fd61d94dc3.png)
 
 De izquierda a derecha, estas opciones sirven para:
 
