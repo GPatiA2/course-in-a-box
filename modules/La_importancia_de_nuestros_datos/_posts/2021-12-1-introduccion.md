@@ -3,7 +3,7 @@
 Con la proliferación de las nuevas tecnologías y la imparable expansión de internet, la cantidad de datos que circulan por la red es desmesurada. Estos datos, si bien para la mayoría de los usuarios no tienen ningún atractivo más allá de lo que son, para las empresas son activos muy importantes que les ayudan a tener un mejor entendimiento de quiénes somos, qué es lo que nos interesa, donde vivimos, en qué posición social nos encontramos…
 
 
-En la web https://www.vpnmentor.com/research/whos-watching-you/#/ podemos ver los datos que recogen sobre nosotros las compañías más conocidas que operan en internet.
+En la web [vpnmentor](https://www.vpnmentor.com/research/whos-watching-you/#/) podemos ver los datos que recogen sobre nosotros las compañías más conocidas que operan en internet.
 La importancía de estos datos hoy en día es tan grande que muchas empresas no dudan en violar nuestra privacidad con métodos cuestionables con tal de obtener la mayor cantidad de estos.  
 
 
