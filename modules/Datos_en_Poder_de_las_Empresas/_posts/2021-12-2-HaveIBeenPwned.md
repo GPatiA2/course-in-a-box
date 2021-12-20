@@ -18,7 +18,7 @@ un email o un teléfono. Cuando introduzcas los datos necesarios, puedes pulsar 
 
 Además, en la parte superior de la web aparecen una serie de secciones que te permiten consultar la siguiente información :
 
--- insertar imagen de la web resaltada --
+![haveibeenpwnedimg](https://user-images.githubusercontent.com/60484182/146808443-39e01285-ad69-4695-97cb-283ceee4e34e.png)
 
   * **Notify Me** : cuando entres a esta sección, se te pedirá que introduzcas un correo electrónico y sigas ciertas instrucciones para verificar que no eres un robot. Después de rellenar toda la información, si haces click en "notify me", la web te enviará un e-mail a la dirección que le proporcionaste si la contraseña de la cuenta se hace pública en internet.
   * **Who´s been pwned** : en esta sección de la web tienes información acerca de los servicios web que han sufrido filtraciones. Además, podrás leer acerca de cómo se produjeron las filtraciones, cuándo se produjeron, y qué cantidad de información se filtró.
